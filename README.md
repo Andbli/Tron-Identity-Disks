@@ -3,7 +3,30 @@
 
 This software manages a Tron Identity Disk running on a ESP32 or ESP8266. The goal is for the code to be able to manage all the componenets with different modes and cool effects. This repository will focus mostly on the code starting out and then on the hardware later in the process. Designs for Tron Legacy &amp; Ares should be the final goal!
 
+## Features
+I will split the features into diffrent sections since the disk will have two different modes at first and maybe more later down the road.
 
+ #### Main
+- [ ] Smooth Neopixel control.
+- [ ] Manual control using buttons or capacitive sensors.
+- [ ] Battery indicator & low battery warning.
+- [ ] OTA updates.
+- [ ] Power limits managed mainly by smart brightness control.
+- [ ] Test mode for testing max power draw.
+
+ #### Light Mode
+ In this mode the identity disk will act like a smart light.
+- [ ] MQTT & Home Assistant support! 
+- [ ] Matter support?
+- [ ] Animations.
+- [ ] Clock mode for showing time using leds.
+- [ ] Ambient light sensor for auto brightness.
+
+#### Disk mode
+In this mode the identity disk will act more like a real identity disk.
+- [ ] NeoPixel animations during sudden acceleration/deaccelearation.
+- [ ] Realistic sounds based on movement.
+- [ ] Battery optimization.
 
 
 ## License
