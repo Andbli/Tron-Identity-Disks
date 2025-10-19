@@ -35,3 +35,9 @@ To support the sustainability of our project, we have chosen to release our soft
 
 If your intended use falls outside the terms of this license and you require a separate agreement, please contact me at andreas.kb@icloud.com
  for further information.
+
+
+ ---------------------------------------
+
+ ## Research
+ - [Fastled](https://github.com/FastLED/FastLED) for neopixel lights management.
