@@ -41,3 +41,4 @@ If your intended use falls outside the terms of this license and you require a s
 
  ## Research
  - [Fastled](https://github.com/FastLED/FastLED) for neopixel lights management.
+ - [WifiManager] with modifications for wifi and credentials.
