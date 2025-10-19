@@ -40,5 +40,5 @@ If your intended use falls outside the terms of this license and you require a s
  ---------------------------------------
 
  ## Research
- - [Fastled](https://github.com/FastLED/FastLED) for neopixel lights management.
- - [WifiManager](https://docs.arduino.cc/libraries/wifimanager/) with modifications for wifi and credentials.
+ - [Fastled](https://github.com/FastLED/FastLED) for neopixel lights management. Fastled can also handle power limits for led strips. Resistor for data line and capacisator between + and - on PSU recommended, [view here](https://github.com/FastLED/FastLED/blob/master/cookbook/getting-started/hardware.md#wiring-diagram)
+ - [WifiManager](https://github.com/tzapu/WiFiManager) with modifications for wifi and credentials.
